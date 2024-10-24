@@ -1,0 +1,11 @@
+.venv
+.vscode
+site
+.markdownlint.yml
+.vs/
+bin/
+obj/
+__pycache__
+/Backup/Intro to Quantum Software Development.sln
+/UpgradeLog.htm
+*.user
