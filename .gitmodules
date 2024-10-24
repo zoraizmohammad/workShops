@@ -1,3 +1,6 @@
 [submodule "mindsdb"]
 	path = mindsdb
 	url = https://github.com/zoraizmohammad/mindsdb.git
+[submodule "quantum-course-labs"]
+	path = quantum-course-labs
+	url = https://github.com/zoraizmohammad/quantum-course-labs.git
