@@ -1,2 +1,2 @@
 # workShops
-Tool Workshops
+Tool Workshops & Small Projects
